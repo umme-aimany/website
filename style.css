@@ -1,0 +1,21 @@
+h1{
+    font-style: oblique;
+}
+#robotics{
+    color: blueviolet;
+}
+a:visited{
+    color:rgb(1,104,179)
+}
+a:active{
+    color: red;
+}
+a:hover{
+    color:cadetblue
+}
+a:focus{
+    color: grey
+}
+h1.para{
+    text-shadow: 3px 3px 5px cadetblue;
+}
